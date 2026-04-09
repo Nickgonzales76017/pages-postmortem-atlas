@@ -2,7 +2,7 @@
   {
     "id": "demo-postmortem-atlas-a",
     "file": "incident-review-2026-03-12.md",
-    "time": "Demo dataset",
+    "time": "Reference corpus",
     "status": "complete",
     "brief": "Postmortem traces a high-severity customer-facing regression back to an unreviewed assumption in a release path and delayed detection in monitoring. Main corrective actions are tighter stage gates, better rollback clarity, and a smaller blast radius for future deploys.",
     "tags": [
@@ -14,15 +14,15 @@
     "demo": true,
     "searchSummary": "incident cause, remediation, repeated pattern",
     "whyItMatters": "One incident becomes part of a searchable learning atlas.",
-    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the seeded records to feel that inside the app.",
+    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the reference records to feel that inside the app.",
     "searchOutputs": []
   },
   {
     "id": "demo-postmortem-atlas-b",
     "file": "Related incident-review-2026-03-12.md",
-    "time": "Demo dataset",
+    "time": "Reference corpus",
     "status": "complete",
-    "brief": "A second seeded record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
     "tags": [
       "rollback",
       "monitoring",
@@ -32,15 +32,15 @@
     "demo": true,
     "searchSummary": "related signals, continuity, reuse",
     "whyItMatters": "One incident becomes part of a searchable learning atlas.",
-    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the seeded records to feel that inside the app.",
+    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the reference records to feel that inside the app.",
     "searchOutputs": []
   },
   {
     "id": "demo-postmortem-atlas-c",
     "file": "Follow-up incident-review-2026-03-12.md",
-    "time": "Demo dataset",
+    "time": "Reference corpus",
     "status": "complete",
-    "brief": "A third seeded record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
+    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
     "tags": [
       "rollback",
       "monitoring",
@@ -50,7 +50,7 @@
     "demo": true,
     "searchSummary": "follow-up, memory, downstream action",
     "whyItMatters": "One incident becomes part of a searchable learning atlas.",
-    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the seeded records to feel that inside the app.",
+    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the reference records to feel that inside the app.",
     "searchOutputs": []
   }
 ]
