@@ -1,0 +1,17 @@
+{
+  "title": "Production Incident Post Mortems",
+  "public_url": "https://www.youtube.com/watch?v=80FVLWJNzbM",
+  "source": {
+    "title": "Production Incident Post Mortems",
+    "channel": "A&S Digital",
+    "duration_seconds": 329
+  },
+  "transcribe": {
+    "avg_confidence": 0.8384,
+    "avg_logprob": -0.5,
+    "rtf": 0.0311,
+    "segments_total": 41,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

@@ -1,0 +1,20 @@
+{
+  "type": "language-detection",
+  "languages": [
+    {
+      "language": "en",
+      "confidence": 0.9634,
+      "votes": 9
+    },
+    {
+      "language": "es",
+      "confidence": 0.0046,
+      "votes": 6
+    }
+  ],
+  "tags": [
+    "rollback",
+    "monitoring",
+    "release"
+  ]
+}

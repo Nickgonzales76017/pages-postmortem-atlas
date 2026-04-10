@@ -1,56 +1,110 @@
 [
   {
-    "id": "demo-postmortem-atlas-a",
-    "file": "incident-review-2026-03-12.md",
-    "time": "Reference corpus",
+    "id": "how-to-run-postmortem",
+    "file": "How to run a Post-Mortem meeting, step-by-step",
+    "time": "Public origin \u00b7 483s",
     "status": "complete",
-    "brief": "Postmortem traces a high-severity customer-facing regression back to an unreviewed assumption in a release path and delayed detection in monitoring. Main corrective actions are tighter stage gates, better rollback clarity, and a smaller blast radius for future deploys.",
+    "brief": "Such an unsafe environment  actively prevents people from learning from their mistakes. There is something in the team or the process that made this person press this button believing it would not  bring the system down. Blame prevents people from  speaking up with concerns, from pointing out each other's mistakes and blind spots. Psychological safety is the belief that you won't be punished or humiliated for speaking up with ideas, questions, concerns or mistakes.",
     "tags": [
-      "rollback",
-      "monitoring",
-      "release"
+      "incident",
+      "postmortem",
+      "production",
+      "review",
+      "sre"
     ],
     "flagged": true,
     "demo": true,
-    "searchSummary": "incident cause, remediation, repeated pattern",
-    "whyItMatters": "One incident becomes part of a searchable learning atlas.",
-    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "sourceUrl": "https://www.youtube.com/watch?v=9JYVOUKNQ3A",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "How to run a Post-Mortem meeting, step-by-step",
+    "publisher": "Bran van der Meer",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: Bran van der Meer on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Incident reviews become a searchable knowledge base \u2014 patterns emerge across postmortems that prevent repeated failures.",
+    "searchSummary": "incident, postmortem, production",
+    "searchIntro": "Search across the postmortem atlas records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "postmortem brief",
+      "clean transcript",
+      "proof bundle",
+      "search across incidents"
+    ],
+    "outputNotes": {
+      "postmortem brief": "Bonfyre extracted the key points from the source audio into a structured postmortem brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/postmortem-atlas/proofs/how-to-run-postmortem/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/postmortem-atlas/proofs/how-to-run-postmortem/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/postmortem-atlas/proofs/how-to-run-postmortem/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/postmortem-atlas/proofs/how-to-run-postmortem"
   },
   {
-    "id": "demo-postmortem-atlas-b",
-    "file": "Related incident-review-2026-03-12.md",
-    "time": "Reference corpus",
+    "id": "production-incident-postmortems",
+    "file": "Production Incident Post Mortems",
+    "time": "Public origin \u00b7 329s",
     "status": "complete",
-    "brief": "A second reference record extends the same workflow so in-app search and reuse are visible instead of theoretical.",
+    "brief": "You have had a war, you spent hours, multiple  people, right, multiple teams, all of you screaming, shouting, yelling, hopefully not, hopefully it's  more civilized and professional, right, and you go through your job and come up from an incident. Many different things could have happened,  don't forget any of the details, timeline, an incident taking an X amount of time to get  resolved is an important benchmark, right. You go back and understand what are the key takeaways from that,  understand what worked, what did not work, right. What does that mean to you in terms of business, in  terms of loss of usage, right, loss of revenue, use of goodwill, right.",
     "tags": [
-      "rollback",
-      "monitoring",
-      "related"
+      "incident",
+      "postmortem",
+      "production",
+      "review",
+      "sre"
     ],
     "flagged": false,
     "demo": true,
-    "searchSummary": "related signals, continuity, reuse",
-    "whyItMatters": "One incident becomes part of a searchable learning atlas.",
-    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
-  },
-  {
-    "id": "demo-postmortem-atlas-c",
-    "file": "Follow-up incident-review-2026-03-12.md",
-    "time": "Reference corpus",
-    "status": "complete",
-    "brief": "A third reference record shows how this app can connect follow-up work, recurring themes, and downstream use without leaving the demo experience.",
-    "tags": [
-      "rollback",
-      "monitoring",
-      "follow-up"
+    "sourceUrl": "https://www.youtube.com/watch?v=80FVLWJNzbM",
+    "sourceLabel": "Watch original public video",
+    "sourceTitle": "Production Incident Post Mortems",
+    "publisher": "A&S Digital",
+    "license": "Public YouTube video processed transiently. Bonfyre retained only derived artifacts.",
+    "sourceCopy": "Source: A&S Digital on YouTube. Bonfyre downloaded, transcribed, and deleted the media. Only the transcript, brief, and proof remain.",
+    "whyItMatters": "Incident reviews become a searchable knowledge base \u2014 patterns emerge across postmortems that prevent repeated failures.",
+    "searchSummary": "incident, postmortem, production",
+    "searchIntro": "Search across the postmortem atlas records to see how Bonfyre connects related content from different sources.",
+    "outputs": [
+      "postmortem brief",
+      "clean transcript",
+      "proof bundle",
+      "search across incidents"
     ],
-    "flagged": false,
-    "demo": true,
-    "searchSummary": "follow-up, memory, downstream action",
-    "whyItMatters": "One incident becomes part of a searchable learning atlas.",
-    "searchIntro": "One incident becomes part of a searchable learning atlas. Search across the reference records to feel that inside the app.",
-    "searchOutputs": []
+    "outputNotes": {
+      "postmortem brief": "Bonfyre extracted the key points from the source audio into a structured postmortem brief.",
+      "clean transcript": "The raw transcript cleaned of filler words, false starts, and artifacts.",
+      "proof bundle": "Full provenance chain: source URL, transcription confidence, processing recipe, and quality flags."
+    },
+    "outputLinks": {
+      "brief": {
+        "href": "demos/postmortem-atlas/proofs/production-incident-postmortems/brief.md",
+        "label": "Open brief"
+      },
+      "clean transcript": {
+        "href": "demos/postmortem-atlas/proofs/production-incident-postmortems/clean.txt",
+        "label": "Open clean transcript"
+      },
+      "proof bundle": {
+        "href": "demos/postmortem-atlas/proofs/production-incident-postmortems/proof.json",
+        "label": "Open proof JSON"
+      }
+    },
+    "searchOutputs": [
+      "search across records"
+    ],
+    "proofPath": "demos/postmortem-atlas/proofs/production-incident-postmortems"
   }
 ]

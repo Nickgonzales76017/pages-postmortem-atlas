@@ -1,0 +1,17 @@
+{
+  "title": "incident-review-2026-03-12.md",
+  "public_url": "https://www.youtube.com/watch?v=2gvxWj8MmFg",
+  "source": {
+    "title": "incident-review-2026-03-12.md",
+    "channel": "Reference corpus",
+    "duration_seconds": 81
+  },
+  "transcribe": {
+    "avg_confidence": 0.7733,
+    "avg_logprob": -0.699,
+    "rtf": 0.0766,
+    "segments_total": 13,
+    "segments_hallucinated": 1
+  },
+  "retained_media": false
+}

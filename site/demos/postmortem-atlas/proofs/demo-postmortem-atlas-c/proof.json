@@ -1,0 +1,17 @@
+{
+  "title": "Follow-up incident-review-2026-03-12.md",
+  "public_url": "https://www.youtube.com/watch?v=WFVLWo5B81w",
+  "source": {
+    "title": "Follow-up incident-review-2026-03-12.md",
+    "channel": "Reference corpus",
+    "duration_seconds": 180
+  },
+  "transcribe": {
+    "avg_confidence": 0.8556,
+    "avg_logprob": -0.817,
+    "rtf": 0.0563,
+    "segments_total": 18,
+    "segments_hallucinated": 1
+  },
+  "retained_media": false
+}

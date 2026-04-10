@@ -1,0 +1,17 @@
+{
+  "title": "How to run a Post-Mortem meeting, step-by-step",
+  "public_url": "https://www.youtube.com/watch?v=9JYVOUKNQ3A",
+  "source": {
+    "title": "How to run a Post-Mortem meeting, step-by-step",
+    "channel": "Bran van der Meer",
+    "duration_seconds": 483
+  },
+  "transcribe": {
+    "avg_confidence": 0.9188,
+    "avg_logprob": -0.5,
+    "rtf": 0.0413,
+    "segments_total": 64,
+    "segments_hallucinated": 0
+  },
+  "retained_media": false
+}

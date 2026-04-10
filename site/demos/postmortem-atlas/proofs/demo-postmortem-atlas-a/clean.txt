@@ -1,0 +1,3 @@
+Postmortem traces a high-severity customer-facing regression back to an unreviewed assumption in a release path and delayed detection in monitoring. Main corrective actions are tighter stage gates, better rollback clarity, and a smaller blast radius for future deploys.
+
+incident cause, remediation, repeated pattern

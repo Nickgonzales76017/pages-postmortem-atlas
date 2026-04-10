@@ -1,0 +1,11 @@
+{
+  "family_id": "brief-demo-postmortem-atlas-a",
+  "atoms": 1,
+  "operators": 2,
+  "realizations": 4,
+  "unrealized_targets": 0,
+  "raw_bytes": 6730,
+  "compressed_bytes": 5915,
+  "replacement_cost_usd": 4.73,
+  "portfolio_value_usd": 11.16
+}
